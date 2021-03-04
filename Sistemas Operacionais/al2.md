@@ -41,8 +41,6 @@ Toda vez que era necessario fazer um programa funcionar tinha que estipular no i
 Permite o uso de mais processo que ficam aguardando no MP, alternando para ser executado na CPU.
 
 
-## Miltiprocessadores
-
 
 
 
