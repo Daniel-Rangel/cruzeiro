@@ -50,3 +50,5 @@ Salva a modificações preparadas para o salvamento e gera um ponto de salve.
 ### Gitlab
 
 Foco em integração com ferramentas de DevOps. O Gitlab proporciona, nativamente, ferramentas de integração e entrega contínua ou CI/CD, além de métricas para acompanhamento de qualidade de código, performance e teste de usabilidade.
+
+>Aula 3 pratica do que foi estudado.
