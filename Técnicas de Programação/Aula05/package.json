@@ -1,0 +1,24 @@
+{
+    "name": "aula5_smp",
+    "version": "1.0.0",
+    "description": "Iniciando o projeto node.js",
+    "main": "teste.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "node",
+        "apredendo",
+        "projeto"
+    ],
+    "author": "Prof. Gobbato",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://gitlab.com/alexandergobbato/aula5_smp/issues"
+    },
+    "homepage": "https://gitlab.com/alexandergobbato/aula5_smp#readme",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.17.1"
+    }
+}
